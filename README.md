@@ -3,7 +3,7 @@
  🌐 Onde me encontrar
 <div align="start">
 
-[![Portfólio](https://img.shields.io/badge/-Portfólio-white?style=for-the-badge&logo=web&logoColor=white)]([https://candiniz.github.io](https://candiniz-portfolio.vercel.app)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-white?style=for-the-badge&logo=web&logoColor=white)](https://candiniz-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/candiniz)
 [![GitHub](https://img.shields.io/badge/-GitHub-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Candiniz)
 
